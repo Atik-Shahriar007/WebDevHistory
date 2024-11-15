@@ -1,0 +1,5 @@
+Research and Write about Web Eras
+* Web 1.0: The first stage of the web, focusing on static content and read-only experiences. Examples of tools include HTML and CSS.
+* Web 2.0: Introduced interactivity, user-generated content, and social networks. Popular tools include JavaScript, AJAX, and CMS platforms.
+* Web 3.0: The era of decentralization, blockchain, and AI-driven personalized experiences. Tools include smart contracts and blockchain platforms
+
